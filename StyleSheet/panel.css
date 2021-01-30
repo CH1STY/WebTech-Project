@@ -1,0 +1,80 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+body
+{
+	font-family: 'Poppins', sans-serif;
+	scroll-behavior: smooth;
+}
+.leftNav
+{
+	position: fixed;
+	background-color: #005EA8;
+	width: 250px;
+	height: 100vh;
+}
+.navLogo
+{
+	width: 120px;
+	padding: 20px 0 0 20px;
+	display: inline-block;
+}
+.cont_tab
+{
+	margin-top: 20px;
+}
+.tab
+{
+	background-color: #006FC7;
+	display: block;
+	text-decoration: none;
+	font-weight: 700;
+	color: white;
+	padding: 15px 20px;
+	margin-bottom: 3px;
+}
+.tab:hover
+{
+	background-color: #008EFF;
+}
+.active
+{
+	background-color: #008EFF;
+}
+.logout
+{
+	background-color: black;
+	position: absolute;
+	bottom: 0px;
+	margin-bottom: 0;
+	width: 100%;
+}
+/*-------------------------------*/
+
+#board
+{
+	/*background-color: lightblue;*/
+	width: 1000px;
+	height: 100vh;
+	margin-left: 300px;
+}
+.header
+{
+	padding-top: 20px;
+	color: #005EA8;
+}
+.add_btn
+{
+	background-color: #006FC7;
+	padding: 15px 20px;
+	border: none;
+	color: white;
+	font-weight: 600;
+	position: relative;
+	top: -40px;
+	float: right;
+	font-family: 'Poppins', sans-serif;
+	cursor: pointer;
+}

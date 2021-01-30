@@ -1,0 +1,49 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	font-family: 'Poppins', sans-serif;
+	scroll-behavior: smooth;
+}
+.errorMsg
+{
+	font-size: 12px;
+	color: red;
+	font-weight: 500;
+}
+.common_inputField
+{
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+	background-color: #E6E6E6;
+	padding: 15px;
+	display: block;
+	margin-top: 10px;
+	border: none;
+	width:350px;
+}
+.common_btn
+{
+	font-size: 16px;
+	font-weight: 600;
+	background-color: #005EA8;
+	padding: 10px 30px;
+	border: none;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	cursor: pointer;
+}
+.common_label
+{
+	font-weight: 600;
+	margin-top: 20px;
+}
+.common_container
+{
+	width: 1000px;
+	margin-left: 50%;
+	transform: translate(-50%);
+}

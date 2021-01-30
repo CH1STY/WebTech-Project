@@ -1,0 +1,29 @@
+.errorMsg
+{	font-weight: 600;
+	color: note;
+	font-family: 'Poppins', sans-serif;
+}
+.submit_btn
+{
+	
+	font-size: 16px;
+	font-weight: 600;
+	background-color: #005EA8;
+	padding: 10px 30px;
+	border: none;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	cursor: pointer;
+}
+.cancelBtn
+{
+	margin-bottom: 25px;
+	padding: 10px 30px;
+	font-size: 16px;
+	font-weight: 600;
+	background-color: #000000;
+	border: none;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	cursor: pointer;
+}

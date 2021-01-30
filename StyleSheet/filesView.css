@@ -1,0 +1,17 @@
+.cont_files
+{
+	display: inline-block;
+	padding: 50px 60px;
+}
+.fileName
+{
+	font-size: 15px;
+	color: black;
+	font-weight: 700;
+}
+.greyBG
+{
+	background-color: #dbdbdb;
+}
+
+/*///////////////////////////*/

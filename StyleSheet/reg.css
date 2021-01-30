@@ -1,0 +1,78 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+body
+{
+	font-family: 'Poppins', sans-serif;
+	scroll-behavior: smooth;
+}
+.container
+{
+	position: absolute;
+	left: 50%;
+	/*top: 50%;*/
+	transform: translate(-50%);
+	width: 300px;
+	text-align: center;
+}
+.regTop
+{
+	/*background-color: #2F5FA8;*/
+	/*height: 100px;*/
+	text-align: center;
+	padding: 30px;
+}
+.logo
+{
+	width: 200px;
+}
+.txt
+{
+	font-weight: 700;
+	font-size: 25px;
+	color: #2F5FA8;
+	/*text-align: center;*/
+	line-height: 50px;
+}
+#reg_form
+{
+	text-align: center;
+}
+.inputField
+{
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+	background-color: #E6E6E6;
+	padding: 15px 0 15px 20px;
+	display: block;
+	margin-top: 15px;
+	border: none;
+	width: 93%;
+}
+.submit_btn
+{
+	margin: 30px;
+	font-size: 16px;
+	font-weight: 600;
+	background-color: #005EA8;
+	padding: 10px 30px;
+	border: none;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	cursor: pointer;
+}
+.cancelBtn
+{
+	margin-bottom: 25px;
+	padding: 10px 30px;
+	font-size: 16px;
+	font-weight: 600;
+	background-color: #000000;
+	border: none;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	cursor: pointer;
+}
+

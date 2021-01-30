@@ -1,0 +1,30 @@
+#topNav
+{
+	background-color: #008EFF;
+	height: 60px;
+}
+.navLogo
+{
+	width: 120px;
+	padding: 10px 0 0 20px;
+	display: inline-block;
+}
+.cont_navTab
+{
+	display: inline-block;
+	float: right;
+	top: 17px;
+	position: relative;
+}
+.navTab
+{
+	font-weight: 600;
+	padding: 20px;
+	text-decoration: none;
+	color: white;
+}
+.login_btn
+{
+	background-color: #005EA8;
+	padding: 19px 30px;
+}
