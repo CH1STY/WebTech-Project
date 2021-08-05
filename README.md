@@ -11,7 +11,7 @@ Final Project of Webtech Course
 ### Login Page
 
 
-<img src="WebTechPic/Login.png" alt="" srcset="">
+<img src="WebTechPic/Login.jpg" alt="" srcset="">
 <hr>
 ### Registration Page
 
